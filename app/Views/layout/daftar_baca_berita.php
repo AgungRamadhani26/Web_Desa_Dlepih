@@ -73,13 +73,13 @@
          <h3>Our Social Media</h3>
       </div>
       <div class="socials">
-         <a href="#">
+         <a href="https://www.tiktok.com/@desa_dlepih?_t=8eiwFXNcpMI&_r=1" target="_blank">
             <img src="/assets/frontend_home/img/media/tiktok.png" alt="tiktok" height="30" alt="About" />
          </a>
-         <a href="#">
+         <a href="https://instagram.com/dessadlepih?igshid=MzRlODBiNWFlZA==" target="_blank">
             <img src="/assets/frontend_home/img/media/instagram.png" alt="instagram" height="30" alt="About" />
          </a>
-         <a href="#">
+         <a href="https://www.facebook.com/profile.php?id=61550018125567&mibextid=ZbWKwL" target="_blank">
             <img src="/assets/frontend_home/img/media/facebook.png" alt="facebook" height="30" alt="About" />
          </a>
       </div>
